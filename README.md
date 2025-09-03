@@ -32,10 +32,10 @@ The **Snake Game GUI** is a classic arcade-style game implemented in **Python** 
 Here’s a quick preview of the game:  
 
 <p align="center">
-  <img src="assets/snake demo.gif" alt="Snake Game Demo" height="500"/>
+  <img src="assets/snake demo.gif" alt="Snake Game Demo" height="450"/>
 </p>
 
-> 📌 Put your gameplay GIF in `assets/demo.gif` or replace with your hosted GIF link.  
+
 
 ---
 
